@@ -5,7 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 
-- 💬 Ask me about **I am an undergraduate student in the field of Computer Science. I'm constantly captivated by the transformative power of technology and the profound impact it has on our world. I have cultivated experience in various skills, including proficiency in Data Structures and Algorithms (C++), Java, and C#. I have worked with Android development, Unity game development, and Web Design. Outside of the tech realm, I am passionate about table tennis, dedicating my college years to honing my skills in the sport.**
+- 💬 Ask me about **I am an undergraduate student in the field of Computer Science. I'm constantly captivated by the transformative power of technology and the profound impact it has on our world. I have cultivated experience in various skills, including proficiency in Data Structures and Algorithms (C++), Java, and C#. I have worked with Android development, Unity game development, and Web Design.
+ Outside of the tech realm, I am passionate about table tennis, dedicating my college years to honing my skills in the sport.**
 
 - 📫 How to reach me **aikpak24@gmail.com**
 
