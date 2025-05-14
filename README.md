@@ -5,7 +5,7 @@
 
 <br>
 
-![logo](https://github.com/AtharIbrahim/AtharIbrahim/blob/main/Banner.png)
+![logo](https://github.com/AtharIbrahim/AtharIbrahim/blob/main/Cheers!.png)
 
 <p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Welcome to My GitHub Profile!" /></p>
 
